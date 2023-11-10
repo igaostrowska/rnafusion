@@ -19,7 +19,7 @@ On release, automated continuous integration tests run the pipeline on a full-si
 
 In rnafusion the full-sized test includes reference building and fusion detection. The test dataset is taken from [here](https://github.com/nf-core/test-datasets/tree/rnafusion/testdata/human).
 
-## Pipeline summary
+##### Pipeline summary
 
 ![nf-core/rnafusion metro map](docs/images/nf-core-rnafusion_metro_map.png)
 
